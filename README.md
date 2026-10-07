@@ -14,4 +14,4 @@ Aspiring Full Stack Developer from Delhi, India 🇮🇳
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ## 📫 Connect with me
-- GitHub: [SakshiYadav002](https://github.com/SakshiYadav002
+- GitHub: github.com/SakshiYadav002
