@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Sakshi 👋
 
-<!--
-**SakshiYadav002/SakshiYadav002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Full Stack Developer from Delhi, India 🇮🇳
 
-Here are some ideas to get you started:
+## 🔭 What I'm doing
+- Learning web development (frontend + backend)
+- Building small projects to practice
+- Preparing for developer interviews
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills (Currently Learning)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+## 📫 Connect with me
+- GitHub: [SakshiYadav002](https://github.com/SakshiYadav002
